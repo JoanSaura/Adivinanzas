@@ -8,6 +8,16 @@ const preguntes = [
         questio: "El primer astronauta a trepitjar la lluna va ser ?",
         respostaCorrecta: "Neil Armstrong",
         respostaIncorrecta: "Louis Armstrong"
+    },
+    {
+        questio: "Que forma tiene la Tierra",
+        respostaCorrecta: "Esferica",
+        respostaIncorrecta: "Qualsevol"
+    },
+    {
+        questio: "Quina es la traduccio al catalá de 'Fear & Hunger'",
+        respostaCorrecta:"Por i fam",
+        respostaIncorrecta:"Fam i por"
     }
 ];
 
